@@ -1,0 +1,67 @@
+body{
+  background-image: url(sfondo.png);
+  background-repeat: no-repeat;
+  background-size: 1200px 800px;
+}
+.box{
+  width: 800px;
+  height: 600px;
+  margin: 28px;
+  border: solid 1px black;
+  border-radius: 10px 10px 10px 10px;
+  background-color: #696969;
+  opacity: 0.8;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 50px;
+}
+#logo{
+  width: 200px;
+  height: 100px;
+  margin-left: 280px;
+  margin-top: 50px;
+}
+div > h1{
+  margin: auto;
+  margin-left: 180px;
+  font-size: 30px;
+}
+.riga-green{
+  background-color: green;
+  height: 25px;
+  width: 600px;
+  margin-left: 90px;
+}
+div > button{
+  margin-left: 90px;
+}
+.monopattini{
+  margin-left: 90px;
+}
+.fontm{
+  font-size: 20px;
+}
+.via{
+  margin-left: 90px;
+}
+.carica{
+  margin-left: 90px;
+}
+.row-orange{
+  background-color: orange;
+  height: 20px;
+  width: 350px;
+  margin-left: 90px;
+}
+.row-lightgreen{
+  background-color: lightgreen;
+  height: 20px;
+  width: 450px;
+  margin-left: 90px;
+}
+.row-red{
+  background-color: red;
+  height: 20px;
+  width: 100px;
+  margin-left: 90px;
+}
